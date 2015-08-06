@@ -558,9 +558,9 @@ typedef NS_ENUM(NSInteger, ColorComparison) {
  
  @brief  a random color
  
- @return <#return value description#>
+ @return return a random color
  
- @since <#version number#>
+ @since 0.0.1
  */
 + (instancetype)randomColor;
 
